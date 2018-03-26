@@ -1,0 +1,10 @@
+- apple
+- orange
+- banana: yellow
+- grape:
+  - red
+  - purple
+- blueberry
+- watermelon:
+  - green
+  - yellow
